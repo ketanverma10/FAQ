@@ -1,0 +1,19 @@
+
+*,
+::after,
+::before{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Doto", sans-serif;
+    background: hsl(209, 31%, 47%);
+    color: black;
+    line-height: 1.5;
+    font-size: 2rem;
+}
+.section-height{
+    
+}
